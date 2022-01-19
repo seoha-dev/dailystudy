@@ -1,2 +1,2 @@
 # dailystudy
-noob seoha
+daily coding study by noob seoha
